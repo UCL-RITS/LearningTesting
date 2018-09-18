@@ -26,3 +26,12 @@
 .reveal section img {
     background: rgba(255, 255, 255, 1);
 }
+.red-rectangle {
+    color:red;
+    font-size:15px;
+    padding: 10px 20px 10px 200px;
+    background-color: rgba(3,78,136,0.7);
+    width: 200px;
+    position: relative;
+    margin-left: 350px;
+}
